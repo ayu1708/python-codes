@@ -1,0 +1,5 @@
+a=str(55)
+b=float(55)
+c=int("55")
+#d=int("d")
+print(a,b,c)
